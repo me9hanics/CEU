@@ -1,3 +1,6 @@
 [submodule "ArtProject"]
 	path = ArtProject
 	url = https://github.com/me9hanics/ArtProject.git
+[submodule "DA3-phdma"]
+	path = DA3-phdma
+	url = https://github.com/me9hanics/DA3-phdma.git
