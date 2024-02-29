@@ -4,3 +4,6 @@
 [submodule "DA3-phdma"]
 	path = DA3-phdma
 	url = https://github.com/me9hanics/DA3-phdma.git
+[submodule "RL"]
+	path = RL
+	url = https://github.com/me9hanics/RL.git
