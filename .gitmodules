@@ -7,3 +7,6 @@
 [submodule "RL"]
 	path = RL
 	url = https://github.com/me9hanics/RL.git
+[submodule "DataEngineering-SQL"]
+	path = DataEngineering-SQL
+	url = https://github.com/me9hanics/DataEngineering-SQL.git
