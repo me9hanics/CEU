@@ -10,3 +10,6 @@
 [submodule "DataEngineering-SQL"]
 	path = DataEngineering-SQL
 	url = https://github.com/me9hanics/DataEngineering-SQL.git
+[submodule "AWS-job-posting-analysis"]
+	path = AWS-job-posting-analysis
+	url = https://github.com/me9hanics/AWS-job-posting-analysis.git
